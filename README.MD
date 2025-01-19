@@ -10,8 +10,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuchuk-borom-db&layout=compact&theme=radical&hide_border=true)
 
-## GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kuchuk-borom-db&theme=dracula&hide_border=true)](https://github.com/kuchuk-borom-db/github-readme-activity-graph)
 
 </div>
